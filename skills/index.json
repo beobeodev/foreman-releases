@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "skills": [
+    {
+      "name": "webapp-testing",
+      "description": "Test a local web app with Playwright: verify front-end behaviour, capture screenshots and read browser logs.",
+      "roles": ["qa"],
+      "source": "https://github.com/anthropics/skills.git",
+      "path": "skills/webapp-testing",
+      "ref": "dbd4588f9e1033efb41dad4bef2f7947c8993d44",
+      "licence": "Apache-2.0",
+      "author": "Anthropic",
+      "homepage": "https://github.com/anthropics/skills"
+    },
+    {
+      "name": "mcp-builder",
+      "description": "Build MCP servers (Python FastMCP or the TypeScript SDK) with well-designed tools for an external API or service.",
+      "roles": ["engineer"],
+      "source": "https://github.com/anthropics/skills.git",
+      "path": "skills/mcp-builder",
+      "ref": "dbd4588f9e1033efb41dad4bef2f7947c8993d44",
+      "licence": "Apache-2.0",
+      "author": "Anthropic",
+      "homepage": "https://github.com/anthropics/skills"
+    },
+    {
+      "name": "frontend-design",
+      "description": "Distinctive, intentional visual design for new or reshaped UI: aesthetic direction, typography, no templated defaults.",
+      "roles": ["engineer", "reviewer"],
+      "source": "https://github.com/anthropics/skills.git",
+      "path": "skills/frontend-design",
+      "ref": "dbd4588f9e1033efb41dad4bef2f7947c8993d44",
+      "licence": "Apache-2.0",
+      "author": "Anthropic",
+      "homepage": "https://github.com/anthropics/skills"
+    }
+  ]
+}
